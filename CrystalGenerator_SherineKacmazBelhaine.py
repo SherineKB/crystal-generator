@@ -1,4 +1,5 @@
 """ BLENDER VERSION : 3.3.4"""
+""" Author : Sherine Kacmaz Belhaine"""
 
 """ Crystal Generator """
 
