@@ -13,4 +13,4 @@ SCRIPT RESUME :
 
 	► UI generation
 	► Create a shape, randomize it shape and position
-	► Attribute a material (nodes translated in Python)
+	► Attribute a material (shader nodes translated in Python)
